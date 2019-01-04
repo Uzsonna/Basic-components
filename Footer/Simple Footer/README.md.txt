@@ -1,0 +1,1 @@
+This is a simple dark-grey footer with 3 links
